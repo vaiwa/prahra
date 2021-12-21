@@ -113,6 +113,7 @@ exports
 *.cache
 build
 .strapi-updater.json
+data.db
 
 ############################
 # Next
